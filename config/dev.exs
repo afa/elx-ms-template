@@ -5,7 +5,7 @@ config :app, App.Repo,
   # username: "afa",
   # password: "postgres",
   # hostname: "localhost",
-  database: "blog_devel",
+  database: "app_devel",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
